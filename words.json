@@ -1,136 +1,2760 @@
 {
   "words": [
     {
-      "english": "ability",
-      "spanish": "capacidad"
-    },
-    {
-      "english": "able",
-      "spanish": "capaz"
+      "english": "analytics",
+      "spanish": "análisis"
     },
     {
       "english": "about",
       "spanish": "acerca de"
     },
     {
-      "english": "above",
-      "spanish": "arriba"
+      "english": "adhered",
+      "spanish": "adheridos"
     },
     {
-      "english": "accept",
-      "spanish": "aceptar"
+      "english": "anywhere",
+      "spanish": "en cualquier lugar"
     },
     {
-      "english": "according",
-      "spanish": "según"
+      "english": "again",
+      "spanish": "de nuevo"
     },
     {
-      "english": "account",
-      "spanish": "cuenta"
+      "english": "anything",
+      "spanish": "cualquier cosa"
     },
     {
-      "english": "across",
-      "spanish": "a través de"
+      "english": "areas",
+      "spanish": "áreas"
     },
     {
-      "english": "act",
-      "spanish": "actuar"
+      "english": "academic",
+      "spanish": "académico"
     },
     {
-      "english": "action",
-      "spanish": "acción"
+      "english": "approach",
+      "spanish": "enfoque"
     },
     {
-      "english": "activity",
-      "spanish": "actividad"
+      "english": "acknowledge",
+      "spanish": "reconocer"
     },
     {
-      "english": "actually",
-      "spanish": "en realidad"
-    },
-    {
-      "english": "add",
-      "spanish": "añadir"
-    },
-    {
-      "english": "address",
-      "spanish": "dirección"
-    },
-    {
-      "english": "administration",
-      "spanish": "administración"
-    },
-    {
-      "english": "admit",
-      "spanish": "admitir"
-    },
-    {
-      "english": "adult",
-      "spanish": "adulto"
-    },
-    {
-      "english": "affect",
-      "spanish": "afectar"
+      "english": "assessments",
+      "spanish": "evaluaciones"
     },
     {
       "english": "after",
       "spanish": "después de"
     },
     {
-      "english": "again",
-      "spanish": "otra vez"
+      "english": "abroad",
+      "spanish": "en el extranjero"
     },
     {
-      "english": "against",
-      "spanish": "contra"
+      "english": "attend",
+      "spanish": "asistir a"
     },
     {
-      "english": "age",
-      "spanish": "edad"
+      "english": "also",
+      "spanish": "también"
     },
     {
-      "english": "agency",
-      "spanish": "agencia"
+      "english": "awareness",
+      "spanish": "sensibilización"
     },
     {
-      "english": "agent",
-      "spanish": "agente"
+      "english": "afternoon",
+      "spanish": "tarde"
     },
     {
-      "english": "ago",
-      "spanish": "hace"
+      "english": "advice",
+      "spanish": "asesoramiento"
     },
     {
-      "english": "agree",
-      "spanish": "acuerdo"
+      "english": "autonomous",
+      "spanish": "autónomo"
     },
     {
-      "english": "agreement",
-      "spanish": "acuerdo"
-    },
-    {
-      "english": "ahead",
-      "spanish": "adelante"
-    },
-    {
-      "english": "air",
-      "spanish": "aire"
+      "english": "attention",
+      "spanish": "atención"
     },
     {
       "english": "all",
+      "spanish": "todo"
+    },
+    {
+      "english": "always",
+      "spanish": "siempre"
+    },
+    {
+      "english": "around",
+      "spanish": "alrededor de"
+    },
+    {
+      "english": "adaptation",
+      "spanish": "adaptación"
+    },
+    {
+      "english": "at",
+      "spanish": "en"
+    },
+    {
+      "english": "arts",
+      "spanish": "artes"
+    },
+    {
+      "english": "acknowledgement",
+      "spanish": "reconocimiento"
+    },
+    {
+      "english": "assignments",
+      "spanish": "tareas"
+    },
+    {
+      "english": "as",
+      "spanish": "como"
+    },
+    {
+      "english": "well",
+      "spanish": "también"
+    },
+    {
+      "english": "although",
+      "spanish": "aunque"
+    },
+    {
+      "english": "acoustic",
+      "spanish": "acústico"
+    },
+    {
+      "english": "across",
+      "spanish": "a través de"
+    },
+    {
+      "english": "actively",
+      "spanish": "activamente"
+    },
+    {
+      "english": "any",
+      "spanish": "cualquier"
+    },
+    {
+      "english": "amazing",
+      "spanish": "sorprendente"
+    },
+    {
+      "english": "airport",
+      "spanish": "aeropuerto"
+    },
+    {
+      "english": "airline",
+      "spanish": "compañía aérea"
+    },
+    {
+      "english": "arrival",
+      "spanish": "llegada"
+    },
+    {
+      "english": "avoid",
+      "spanish": "evitar"
+    },
+    {
+      "english": "are",
+      "spanish": "son"
+    },
+    {
+      "english": "away",
+      "spanish": "lejos"
+    },
+    {
+      "english": "arrive",
+      "spanish": "llegar"
+    },
+    {
+      "english": "and",
+      "spanish": "y"
+    },
+    {
+      "english": "abilities",
+      "spanish": "habilidades"
+    },
+    {
+      "english": "brother",
+      "spanish": "hermano"
+    },
+    {
+      "english": "books",
+      "spanish": "libros"
+    },
+    {
+      "english": "branding",
+      "spanish": "marca"
+    },
+    {
+      "english": "big",
+      "spanish": "gran"
+    },
+    {
+      "english": "because",
+      "spanish": "porque"
+    },
+    {
+      "english": "based",
+      "spanish": "basado"
+    },
+    {
+      "english": "beginners",
+      "spanish": "principiantes"
+    },
+    {
+      "english": "begin",
+      "spanish": "empezar"
+    },
+    {
+      "english": "broadened",
+      "spanish": "ampliado"
+    },
+    {
+      "english": "boundless",
+      "spanish": "sin límites"
+    },
+    {
+      "english": "but",
+      "spanish": "pero"
+    },
+    {
+      "english": "best",
+      "spanish": "mejor"
+    },
+    {
+      "english": "beautiful",
+      "spanish": "hermoso"
+    },
+    {
+      "english": "being",
+      "spanish": "siendo"
+    },
+    {
+      "english": "back",
+      "spanish": "atrás"
+    },
+    {
+      "english": "before",
+      "spanish": "antes de"
+    },
+    {
+      "english": "by",
+      "spanish": "por"
+    },
+    {
+      "english": "bus",
+      "spanish": "autobús"
+    },
+    {
+      "english": "bicycles",
+      "spanish": "bicicletas"
+    },
+    {
+      "english": "become",
+      "spanish": "se convierten en"
+    },
+    {
+      "english": "between",
+      "spanish": "entre"
+    },
+    {
+      "english": "boat",
+      "spanish": "barco"
+    },
+    {
+      "english": "believe",
+      "spanish": "creer"
+    },
+    {
+      "english": "better",
+      "spanish": "mejor"
+    },
+    {
+      "english": "bring",
+      "spanish": "traer"
+    },
+    {
+      "english": "build",
+      "spanish": "construir"
+    },
+    {
+      "english": "brand",
+      "spanish": "marca"
+    },
+    {
+      "english": "be",
+      "spanish": "visite"
+    },
+    {
+      "english": "code",
+      "spanish": "código"
+    },
+    {
+      "english": "cousins",
+      "spanish": "primos"
+    },
+    {
+      "english": "communication",
+      "spanish": "comunicación"
+    },
+    {
+      "english": "corporation",
+      "spanish": "corporación"
+    },
+    {
+      "english": "children",
+      "spanish": "niños"
+    },
+    {
+      "english": "computer",
+      "spanish": "ordenador"
+    },
+    {
+      "english": "city",
+      "spanish": "ciudad"
+    },
+    {
+      "english": "currently",
+      "spanish": "actualmente"
+    },
+    {
+      "english": "cooking",
+      "spanish": "cocina"
+    },
+    {
+      "english": "common",
+      "spanish": "común"
+    },
+    {
+      "english": "corresponding",
+      "spanish": "correspondiente"
+    },
+    {
+      "english": "classes",
+      "spanish": "clases"
+    },
+    {
+      "english": "contexts",
+      "spanish": "contextos"
+    },
+    {
+      "english": "complete",
+      "spanish": "completo"
+    },
+    {
+      "english": "course",
+      "spanish": "curso"
+    },
+    {
+      "english": "cover",
+      "spanish": "cubrir"
+    },
+    {
+      "english": "coherent",
+      "spanish": "coherente"
+    },
+    {
+      "english": "compound",
+      "spanish": "compuesto"
+    },
+    {
+      "english": "conversations",
+      "spanish": "conversaciones"
+    },
+    {
+      "english": "completion",
+      "spanish": "finalización"
+    },
+    {
+      "english": "complex",
+      "spanish": "complejo"
+    },
+    {
+      "english": "certificate",
+      "spanish": "certificado"
+    },
+    {
+      "english": "critical",
+      "spanish": "crítico"
+    },
+    {
+      "english": "company",
+      "spanish": "empresa"
+    },
+    {
+      "english": "compare",
+      "spanish": "comparar"
+    },
+    {
+      "english": "career",
+      "spanish": "carrera"
+    },
+    {
+      "english": "connected",
+      "spanish": "conectado"
+    },
+    {
+      "english": "comprehension",
+      "spanish": "comprensión"
+    },
+    {
+      "english": "completing",
+      "spanish": "completar"
+    },
+    {
+      "english": "charities",
+      "spanish": "organizaciones benéficas"
+    },
+    {
+      "english": "cultures",
+      "spanish": "culturas"
+    },
+    {
+      "english": "colonies",
+      "spanish": "colonias"
+    },
+    {
+      "english": "continue",
+      "spanish": "continuar"
+    },
+    {
+      "english": "care",
+      "spanish": "cuidado"
+    },
+    {
+      "english": "community",
+      "spanish": "comunidad"
+    },
+    {
+      "english": "collaborator",
+      "spanish": "colaborador"
+    },
+    {
+      "english": "coordinator",
+      "spanish": "coordinador"
+    },
+    {
+      "english": "chores",
+      "spanish": "tareas"
+    },
+    {
+      "english": "clothes",
+      "spanish": "ropa"
+    },
+    {
+      "english": "cleaning",
+      "spanish": "limpieza"
+    },
+    {
+      "english": "cooking",
+      "spanish": "cocinar"
+    },
+    {
+      "english": "choosing",
+      "spanish": "elegir"
+    },
+    {
+      "english": "choice",
+      "spanish": "elegir"
+    },
+    {
+      "english": "can",
+      "spanish": "puede"
+    },
+    {
+      "english": "choices",
+      "spanish": "opciones"
+    },
+    {
+      "english": "change",
+      "spanish": "cambiar"
+    },
+    {
+      "english": "could",
+      "spanish": "podría"
+    },
+    {
+      "english": "come",
+      "spanish": "llegar"
+    },
+    {
+      "english": "childhood",
+      "spanish": "infancia"
+    },
+    {
+      "english": "community",
+      "spanish": "comunidad"
+    },
+    {
+      "english": "centre",
+      "spanish": "centro"
+    },
+    {
+      "english": "cruise",
+      "spanish": "crucero"
+    },
+    {
+      "english": "cheap",
+      "spanish": "barato"
+    },
+    {
+      "english": "cost",
+      "spanish": "costo"
+    },
+    {
+      "english": "cars",
+      "spanish": "coches"
+    },
+    {
+      "english": "country",
+      "spanish": "país"
+    },
+    {
+      "english": "countries",
+      "spanish": "países"
+    },
+    {
+      "english": "choose",
+      "spanish": "elija"
+    },
+    {
+      "english": "collectively",
+      "spanish": "colectivamente"
+    },
+    {
+      "english": "daughter",
+      "spanish": "hija"
+    },
+    {
+      "english": "dangerous",
+      "spanish": "peligroso "
+    },
+    {
+      "english": "databases",
+      "spanish": "bases de datos "
+    },
+    {
+      "english": "develop",
+      "spanish": "desarrollar "
+    },
+    {
+      "english": "designing",
+      "spanish": "diseñar "
+    },
+    {
+      "english": "data",
+      "spanish": "datos "
+    },
+    {
+      "english": "digital",
+      "spanish": "digital "
+    },
+    {
+      "english": "degree",
+      "spanish": "grado "
+    },
+    {
+      "english": "define",
+      "spanish": "definir "
+    },
+    {
+      "english": "design",
+      "spanish": "diseño "
+    },
+    {
+      "english": "designer",
+      "spanish": "diseñador "
+    },
+    {
+      "english": "door",
+      "spanish": "puerta "
+    },
+    {
+      "english": "develop",
+      "spanish": "desarrollar "
+    },
+    {
+      "english": "development",
+      "spanish": "desarrollo "
+    },
+    {
+      "english": "daily",
+      "spanish": "diario "
+    },
+    {
+      "english": "details",
+      "spanish": "detalles "
+    },
+    {
+      "english": "differing",
+      "spanish": "diferente "
+    },
+    {
+      "english": "deeply",
+      "spanish": "profundamente "
+    },
+    {
+      "english": "different",
+      "spanish": "diferente "
+    },
+    {
+      "english": "day",
+      "spanish": "día "
+    },
+    {
+      "english": "dishes",
+      "spanish": "platos "
+    },
+    {
+      "english": "does",
+      "spanish": "hace "
+    },
+    {
+      "english": "difficult",
+      "spanish": "difícil "
+    },
+    {
+      "english": "doing",
+      "spanish": "haciendo "
+    },
+    {
+      "english": "done",
+      "spanish": "hecho "
+    },
+    {
+      "english": "you",
+      "spanish": "usted "
+    },
+    {
+      "english": "definitely",
+      "spanish": "definitivamente "
+    },
+    {
+      "english": "discover",
+      "spanish": "descubrir "
+    },
+    {
+      "english": "departure",
+      "spanish": "salida "
+    },
+    {
+      "english": "didn't",
+      "spanish": "no "
+    },
+    {
+      "english": "dive",
+      "spanish": "bucear "
+    },
+    {
+      "english": "destination",
+      "spanish": "destino "
+    },
+    {
+      "english": "did",
+      "spanish": "hizo "
+    },
+    {
+      "english": "difference",
+      "spanish": "diferencia "
+    },
+    {
+      "english": "driver",
+      "spanish": "conductor "
+    },
+    {
+      "english": "depart",
+      "spanish": "partir "
+    },
+    {
+      "english": "developing",
+      "spanish": "desarrollando "
+    },
+    {
+      "english": "do",
+      "spanish": "hacer"
+    },
+    {
+      "english": "experience",
+      "spanish": "experiencia"
+    },
+    {
+      "english": "experiences",
+      "spanish": "experiencias"
+    },
+    {
+      "english": "expertise",
+      "spanish": "experiencia"
+    },
+    {
+      "english": "extensively",
+      "spanish": "extensamente"
+    },
+    {
+      "english": "everyone",
       "spanish": "todos"
     },
     {
-      "english": "allow",
-      "spanish": "permitir"
+      "english": "engineer",
+      "spanish": "ingeniero"
     },
     {
-      "english": "almost",
-      "spanish": "casi"
+      "english": "enjoy",
+      "spanish": "disfrutar"
     },
     {
-      "english": "alone",
+      "english": "excited",
+      "spanish": "emocionado"
+    },
+    {
+      "english": "employer",
+      "spanish": "empleador"
+    },
+    {
+      "english": "enable",
+      "spanish": "habilitar"
+    },
+    {
+      "english": "engage",
+      "spanish": "involucrar"
+    },
+    {
+      "english": "enhanced",
+      "spanish": "mejorado"
+    },
+    {
+      "english": "ensuring",
+      "spanish": "garantizar"
+    },
+    {
+      "english": "expand",
+      "spanish": "expandir"
+    },
+    {
+      "english": "early",
+      "spanish": "temprano"
+    },
+    {
+      "english": "earliest",
+      "spanish": "más temprano"
+    },
+    {
+      "english": "each",
+      "spanish": "cada"
+    },
+    {
+      "english": "extra",
+      "spanish": "ejercicio"
+    },
+    {
+      "english": "exercise",
+      "spanish": "ejercicio"
+    },
+    {
+      "english": "eat",
+      "spanish": "comer"
+    },
+    {
+      "english": "expressions",
+      "spanish": "expresiones"
+    },
+    {
+      "english": "every",
+      "spanish": "cada"
+    },
+    {
+      "english": "easier",
+      "spanish": "más fácil"
+    },
+    {
+      "english": "example",
+      "spanish": "ejemplo"
+    },
+    {
+      "english": "energy",
+      "spanish": "energía"
+    },
+    {
+      "english": "eating",
+      "spanish": "comer"
+    },
+    {
+      "english": "especially",
+      "spanish": "especialmente"
+    },
+    {
+      "english": "exercising",
+      "spanish": "hacer ejercicio"
+    },
+    {
+      "english": "extraordinary",
+      "spanish": "extraordinario"
+    },
+    {
+      "english": "engineers",
+      "spanish": "ingenieros"
+    },
+    {
+      "english": "enough",
+      "spanish": "suficiente"
+    },
+    {
+      "english": "explores",
+      "spanish": "explora"
+    },
+    {
+      "english": "event",
+      "spanish": "evento"
+    },
+    {
+      "english": "enjoy",
+      "spanish": "disfrutar"
+    },
+    {
+      "english": "europe",
+      "spanish": "europa"
+    },
+    {
+      "english": "every",
+      "spanish": "cada"
+    },
+    {
+      "english": "either",
+      "spanish": "cualquiera"
+    },
+    {
+      "english": "establishment",
+      "spanish": "establecimiento"
+    },
+    {
+      "english": "expensive",
+      "spanish": "caro"
+    },
+    {
+      "english": "elementary",
+      "spanish": "elemental"
+    },
+    {
+      "english": "family",
+      "spanish": "familia"
+    },
+    {
+      "english": "fun",
+      "spanish": "diversión"
+    },
+    {
+      "english": "forecast",
+      "spanish": "previsión"
+    },
+    {
+      "english": "fan",
+      "spanish": "fan"
+    },
+    {
+      "english": "features",
+      "spanish": "características"
+    },
+    {
+      "english": "feedback",
+      "spanish": "retroalimentación"
+    },
+    {
+      "english": "freelance",
+      "spanish": "freelance"
+    },
+    {
+      "english": "family",
+      "spanish": "familia"
+    },
+    {
+      "english": "friends",
+      "spanish": "amigos"
+    },
+    {
+      "english": "factual",
+      "spanish": "factual"
+    },
+    {
+      "english": "functional",
+      "spanish": "funcional"
+    },
+    {
+      "english": "frequently",
+      "spanish": "frecuentemente"
+    },
+    {
+      "english": "find",
+      "spanish": "encontrar"
+    },
+    {
+      "english": "funds",
+      "spanish": "fondos"
+    },
+    {
+      "english": "future",
+      "spanish": "futuro"
+    },
+    {
+      "english": "free",
+      "spanish": "gratis"
+    },
+    {
+      "english": "first",
+      "spanish": "primero"
+    },
+    {
+      "english": "few",
+      "spanish": "pocos"
+    },
+    {
+      "english": "food",
+      "spanish": "comida"
+    },
+    {
+      "english": "following",
+      "spanish": "siguiente"
+    },
+    {
+      "english": "for",
+      "spanish": "para"
+    },
+    {
+      "english": "facilities",
+      "spanish": "instalaciones"
+    },
+    {
+      "english": "festival",
+      "spanish": "festival"
+    },
+    {
+      "english": "final",
+      "spanish": "final"
+    },
+    {
+      "english": "favourite",
+      "spanish": "favorito"
+    },
+    {
+      "english": "fly",
+      "spanish": "volar"
+    },
+    {
+      "english": "flight",
+      "spanish": "vuelo"
+    },
+    {
+      "english": "far",
+      "spanish": "lejos"
+    },
+    {
+      "english": "faster",
+      "spanish": "más rápido"
+    },
+    {
+      "english": "fuel",
+      "spanish": "combustible"
+    },
+    {
+      "english": "further",
+      "spanish": "más lejos"
+    },
+    {
+      "english": "fraud",
+      "spanish": "fraude"
+    },
+    {
+      "english": "golf",
+      "spanish": "golf"
+    },
+    {
+      "english": "grandparents",
+      "spanish": "abuelos"
+    },
+    {
+      "english": "good",
+      "spanish": "bueno"
+    },
+    {
+      "english": "graphic",
+      "spanish": "gráfico"
+    },
+    {
+      "english": "grow",
+      "spanish": "crecer"
+    },
+    {
+      "english": "getting",
+      "spanish": "obtener"
+    },
+    {
+      "english": "goals",
+      "spanish": "metas"
+    },
+    {
+      "english": "grateful",
+      "spanish": "agradecido"
+    },
+    {
+      "english": "give",
+      "spanish": "dar"
+    },
+    {
+      "english": "get",
+      "spanish": "obtener"
+    },
+    {
+      "english": "grammatical",
+      "spanish": "gramatical"
+    },
+    {
+      "english": "grocery",
+      "spanish": "tienda de comestibles"
+    },
+    {
+      "english": "guide",
+      "spanish": "guía"
+    },
+    {
+      "english": "go",
+      "spanish": "ir"
+    },
+    {
+      "english": "galleries",
+      "spanish": "galerías"
+    },
+    {
+      "english": "glasgow",
+      "spanish": "glasgow"
+    },
+    {
+      "english": "growing",
+      "spanish": "creciendo"
+    },
+    {
+      "english": "great",
+      "spanish": "excelente"
+    },
+    {
+      "english": "generation",
+      "spanish": "generación"
+    },
+    {
+      "english": "help",
+      "spanish": "ayuda"
+    },
+    {
+      "english": "hometown",
+      "spanish": "ciudad natal"
+    },
+    {
+      "english": "hiked",
+      "spanish": "caminata"
+    },
+    {
+      "english": "historical",
+      "spanish": "histórico"
+    },
+    {
+      "english": "house",
+      "spanish": "casa"
+    },
+    {
+      "english": "huge",
+      "spanish": "enorme"
+    },
+    {
+      "english": "highly",
+      "spanish": "muy"
+    },
+    {
+      "english": "hiking",
+      "spanish": "caminata"
+    },
+    {
+      "english": "holds",
+      "spanish": "tiene"
+    },
+    {
+      "english": "history",
+      "spanish": "historia"
+    },
+    {
+      "english": "have",
+      "spanish": "tiene"
+    },
+    {
+      "english": "husband",
+      "spanish": "marido"
+    },
+    {
+      "english": "horrible",
+      "spanish": "horrible"
+    },
+    {
+      "english": "hope",
+      "spanish": "espero"
+    },
+    {
+      "english": "here",
+      "spanish": "aquí"
+    },
+    {
+      "english": "homework",
+      "spanish": "deberes"
+    },
+    {
+      "english": "her",
+      "spanish": "ella"
+    },
+    {
+      "english": "habits",
+      "spanish": "hábitos"
+    },
+    {
+      "english": "household",
+      "spanish": "hogar"
+    },
+    {
+      "english": "chores",
+      "spanish": "tareas"
+    },
+    {
+      "english": "hard",
+      "spanish": "difícil"
+    },
+    {
+      "english": "head",
+      "spanish": "cabeza"
+    },
+    {
+      "english": "healthy",
+      "spanish": "saludable"
+    },
+    {
+      "english": "hours",
+      "spanish": "horas"
+    },
+    {
+      "english": "how",
+      "spanish": "cómo"
+    },
+    {
+      "english": "his",
+      "spanish": "su"
+    },
+    {
+      "english": "hers",
+      "spanish": "suyo"
+    },
+    {
+      "english": "unhealthy",
+      "spanish": "insalubre"
+    },
+    {
+      "english": "eating",
+      "spanish": "comer"
+    },
+    {
+      "english": "has",
+      "spanish": "ha"
+    },
+    {
+      "english": "had",
+      "spanish": "tenido"
+    },
+    {
+      "english": "historic",
+      "spanish": "histórico"
+    },
+    {
+      "english": "harbour",
+      "spanish": "puerto"
+    },
+    {
+      "english": "highway",
+      "spanish": "carretera"
+    },
+    {
+      "english": "holidays",
+      "spanish": "vacaciones"
+    },
+    {
+      "english": "however",
+      "spanish": "sin embargo"
+    },
+    {
+      "english": "heart",
+      "spanish": "corazón"
+    },
+    {
+      "english": "interesting",
+      "spanish": "interesante"
+    },
+    {
+      "english": "illustration",
+      "spanish": "ilustración"
+    },
+    {
+      "english": "important",
+      "spanish": "importante"
+    },
+    {
+      "english": "imagine",
+      "spanish": "imaginar"
+    },
+    {
+      "english": "integrated",
+      "spanish": "integrado"
+    },
+    {
+      "english": "ideas",
+      "spanish": "ideas"
+    },
+    {
+      "english": "improve",
+      "spanish": "mejorar"
+    },
+    {
+      "english": "interests",
+      "spanish": "intereses"
+    },
+    {
+      "english": "include",
+      "spanish": "incluir"
+    },
+    {
+      "english": "immediate",
+      "spanish": "inmediato"
+    },
+    {
+      "english": "incorporate",
+      "spanish": "incorporar"
+    },
+    {
+      "english": "interactive",
+      "spanish": "interactivo"
+    },
+    {
+      "english": "institutes",
+      "spanish": "institutos"
+    },
+    {
+      "english": "including",
+      "spanish": "incluyendo"
+    },
+    {
+      "english": "island",
+      "spanish": "isla"
+    },
+    {
+      "english": "instructor",
+      "spanish": "instructor"
+    },
+    {
+      "english": "important",
+      "spanish": "importante"
+    },
+    {
+      "english": "immensely",
+      "spanish": "inmensamente"
+    },
+    {
+      "english": "inhabitants",
+      "spanish": "habitantes"
+    },
+    {
+      "english": "interfaces",
+      "spanish": "interfaces"
+    },
+    {
+      "english": "instead",
+      "spanish": "en lugar"
+    },
+    {
+      "english": "involve",
+      "spanish": "involucrar"
+    },
+    {
+      "english": "inside",
+      "spanish": "dentro"
+    },
+    {
+      "english": "identities",
+      "spanish": "identidades"
+    },
+    {
+      "english": "integrity",
+      "spanish": "integridad"
+    },
+    {
+      "english": "just",
       "spanish": "solo"
+    },
+    {
+      "english": " journey",
+      "spanish": "viaje"
+    },
+    {
+      "english": " junior",
+      "spanish": "junior"
+    },
+    {
+      "english": "layers",
+      "spanish": "capas"
+    },
+    {
+      "english": "line",
+      "spanish": "línea"
+    },
+    {
+      "english": "look",
+      "spanish": "mirar"
+    },
+    {
+      "english": "little",
+      "spanish": "poco"
+    },
+    {
+      "english": "learn",
+      "spanish": "aprender"
+    },
+    {
+      "english": "lot",
+      "spanish": "mucho"
+    },
+    {
+      "english": "level",
+      "spanish": "nivel"
+    },
+    {
+      "english": "language",
+      "spanish": "idioma"
+    },
+    {
+      "english": "leaders",
+      "spanish": "líderes"
+    },
+    {
+      "english": "lexical",
+      "spanish": "léxico"
+    },
+    {
+      "english": "listening",
+      "spanish": "escuchar"
+    },
+    {
+      "english": "learnings",
+      "spanish": "aprendizajes"
+    },
+    {
+      "english": "longer",
+      "spanish": "más largo"
+    },
+    {
+      "english": "lived",
+      "spanish": "vivido"
+    },
+    {
+      "english": "land",
+      "spanish": "tierra"
+    },
+    {
+      "english": "laundry",
+      "spanish": "lavandería"
+    },
+    {
+      "english": "love",
+      "spanish": "amar"
+    },
+    {
+      "english": "later",
+      "spanish": "más tarde"
+    },
+    {
+      "english": "like",
+      "spanish": "gustar"
+    },
+    {
+      "english": "lives",
+      "spanish": "vidas"
+    },
+    {
+      "english": "lake",
+      "spanish": "lago"
+    },
+    {
+      "english": "largest",
+      "spanish": "más grande"
+    },
+    {
+      "english": "liked",
+      "spanish": "gustado"
+    },
+    {
+      "english": "located",
+      "spanish": "ubicado"
+    },
+    {
+      "english": "let's",
+      "spanish": "vamos"
+    },
+    {
+      "english": "luggage",
+      "spanish": "equipaje"
+    },
+    {
+      "english": "mile",
+      "spanish": "milla"
+    },
+    {
+      "english": "long",
+      "spanish": "largo"
+    },
+    {
+      "english": "legs",
+      "spanish": "piernas"
+    },
+    {
+      "english": "let",
+      "spanish": "dejar"
+    },
+    {
+      "english": "looking",
+      "spanish": "mirando"
+    },
+    {
+      "english": "marketing ",
+      "spanish": "marketing"
+    },
+    {
+      "english": "movie ",
+      "spanish": "película"
+    },
+    {
+      "english": "manager ",
+      "spanish": "gerente"
+    },
+    {
+      "english": "managers ",
+      "spanish": "gerentes"
+    },
+    {
+      "english": "meet ",
+      "spanish": "reunirse"
+    },
+    {
+      "english": "moved ",
+      "spanish": "movido"
+    },
+    {
+      "english": "maybe ",
+      "spanish": "tal vez"
+    },
+    {
+      "english": "module ",
+      "spanish": "módulo"
+    },
+    {
+      "english": "mastery ",
+      "spanish": "maestría"
+    },
+    {
+      "english": "main ",
+      "spanish": "principal"
+    },
+    {
+      "english": "methods ",
+      "spanish": "métodos"
+    },
+    {
+      "english": "material ",
+      "spanish": "material"
+    },
+    {
+      "english": "meeting ",
+      "spanish": "reunión"
+    },
+    {
+      "english": "most ",
+      "spanish": "la mayoría"
+    },
+    {
+      "english": "make ",
+      "spanish": "hacer"
+    },
+    {
+      "english": "might ",
+      "spanish": "podría"
+    },
+    {
+      "english": "miss ",
+      "spanish": "perder"
+    },
+    {
+      "english": "more ",
+      "spanish": "más"
+    },
+    {
+      "english": "minute ",
+      "spanish": "minuto"
+    },
+    {
+      "english": "mine ",
+      "spanish": "mío"
+    },
+    {
+      "english": "mindful ",
+      "spanish": "consciente"
+    },
+    {
+      "english": "move ",
+      "spanish": "mover"
+    },
+    {
+      "english": "many ",
+      "spanish": "muchos"
+    },
+    {
+      "english": "museum ",
+      "spanish": "museo"
+    },
+    {
+      "english": "market ",
+      "spanish": "mercado"
+    },
+    {
+      "english": "made ",
+      "spanish": "hecho"
+    },
+    {
+      "english": "much ",
+      "spanish": "mucho"
+    },
+    {
+      "english": "moment ",
+      "spanish": "momento"
+    },
+    {
+      "english": "may ",
+      "spanish": "puede"
+    },
+    {
+      "english": "many ",
+      "spanish": "muchos"
+    },
+    {
+      "english": "miles ",
+      "spanish": "millas"
+    },
+    {
+      "english": "moderation ",
+      "spanish": "moderación"
+    },
+    {
+      "english": "more ",
+      "spanish": "más"
+    },
+    {
+      "english": "mission ",
+      "spanish": "misión"
+    },
+    {
+      "english": "motorcycles ",
+      "spanish": "motocicletas"
+    },
+    {
+      "english": "maintain ",
+      "spanish": "mantener"
+    },
+    {
+      "english": "maintaining",
+      "spanish": "manteniendo"
+    },
+    {
+      "english": "opportunity ",
+      "spanish": "oportunidad"
+    },
+    {
+      "english": "obtain ",
+      "spanish": "obtener"
+    },
+    {
+      "english": "offered ",
+      "spanish": "oferta"
+    },
+    {
+      "english": "offers ",
+      "spanish": "ofertas"
+    },
+    {
+      "english": "out ",
+      "spanish": "afuera"
+    },
+    {
+      "english": "ours ",
+      "spanish": "nuestra"
+    },
+    {
+      "english": "one ",
+      "spanish": "una"
+    },
+    {
+      "english": "older ",
+      "spanish": "más antigua"
+    },
+    {
+      "english": "organizations ",
+      "spanish": "organización"
+    },
+    {
+      "english": "opportunities ",
+      "spanish": "oportunidades"
+    },
+    {
+      "english": "often ",
+      "spanish": "a menudo"
+    },
+    {
+      "english": "once",
+      "spanish": "una vez"
+    },
+    {
+      "english": "partner",
+      "spanish": "socio"
+    },
+    {
+      "english": "platform",
+      "spanish": "plataforma"
+    },
+    {
+      "english": "played",
+      "spanish": "jugado"
+    },
+    {
+      "english": "phrase",
+      "spanish": "frase"
+    },
+    {
+      "english": "photography",
+      "spanish": "fotografía"
+    },
+    {
+      "english": "peers",
+      "spanish": "pares"
+    },
+    {
+      "english": "peoples",
+      "spanish": "gente"
+    },
+    {
+      "english": "performant",
+      "spanish": "ejecutante"
+    },
+    {
+      "english": "projects",
+      "spanish": "proyectos"
+    },
+    {
+      "english": "plan",
+      "spanish": "plan"
+    },
+    {
+      "english": "passion",
+      "spanish": "pasión"
+    },
+    {
+      "english": "parents",
+      "spanish": "padres"
+    },
+    {
+      "english": "practices",
+      "spanish": "prácticas"
+    },
+    {
+      "english": "products",
+      "spanish": "productos"
+    },
+    {
+      "english": "programs",
+      "spanish": "programas"
+    },
+    {
+      "english": "progress",
+      "spanish": "progreso"
+    },
+    {
+      "english": "produce",
+      "spanish": "producir"
+    },
+    {
+      "english": "personal",
+      "spanish": "personal"
+    },
+    {
+      "english": "points",
+      "spanish": "puntos"
+    },
+    {
+      "english": "private",
+      "spanish": "privado"
+    },
+    {
+      "english": "paragraph",
+      "spanish": "párrafo"
+    },
+    {
+      "english": "privilege",
+      "spanish": "privilegio"
+    },
+    {
+      "english": "position",
+      "spanish": "posición"
+    },
+    {
+      "english": "partner",
+      "spanish": "socio"
+    },
+    {
+      "english": "possibilities",
+      "spanish": "posibilidades"
+    },
+    {
+      "english": "play",
+      "spanish": "juego"
+    },
+    {
+      "english": "predating",
+      "spanish": "depredación"
+    },
+    {
+      "english": "practices",
+      "spanish": "prácticas"
+    },
+    {
+      "english": "present",
+      "spanish": "presente"
+    },
+    {
+      "english": "perhaps",
+      "spanish": "quizás"
+    },
+    {
+      "english": "pieces",
+      "spanish": "piezas"
+    },
+    {
+      "english": "programmes",
+      "spanish": "programas"
+    },
+    {
+      "english": "provide",
+      "spanish": "proporcionar"
+    },
+    {
+      "english": "prepared",
+      "spanish": "preparado"
+    },
+    {
+      "english": "planning",
+      "spanish": "planificación"
+    },
+    {
+      "english": "part",
+      "spanish": "parte"
+    },
+    {
+      "english": "pleased",
+      "spanish": "satisfecho"
+    },
+    {
+      "english": "population",
+      "spanish": "población"
+    },
+    {
+      "english": "park",
+      "spanish": "parque"
+    },
+    {
+      "english": "performing",
+      "spanish": "ejecutando"
+    },
+    {
+      "english": "penitentiary",
+      "spanish": "penitenciaría"
+    },
+    {
+      "english": "places",
+      "spanish": "lugares"
+    },
+    {
+      "english": "plane",
+      "spanish": "avión"
+    },
+    {
+      "english": "passenger",
+      "spanish": "pasajero"
+    },
+    {
+      "english": "problem",
+      "spanish": "problema"
+    },
+    {
+      "english": "prepare",
+      "spanish": "preparar"
+    },
+    {
+      "english": "power",
+      "spanish": "poder"
+    },
+    {
+      "english": "powered",
+      "spanish": "impulsado"
+    },
+    {
+      "english": "platform",
+      "spanish": "plataforma"
+    },
+    {
+      "english": "preparation",
+      "spanish": "preparación"
+    },
+    {
+      "english": "preserve",
+      "spanish": "preservar"
+    },
+    {
+      "english": "processing",
+      "spanish": "procesamiento"
+    },
+    {
+      "english": "quizzes ",
+      "spanish": "exámenes"
+    },
+    {
+      "english": "quite",
+      "spanish": "bastante"
+    },
+    {
+      "english": "release",
+      "spanish": "lanzamiento"
+    },
+    {
+      "english": "released",
+      "spanish": "lanzado"
+    },
+    {
+      "english": "recently",
+      "spanish": "recientemente"
+    },
+    {
+      "english": "reading",
+      "spanish": "lectura"
+    },
+    {
+      "english": "recipes",
+      "spanish": "recetas"
+    },
+    {
+      "english": "relational",
+      "spanish": "relacional"
+    },
+    {
+      "english": "resources",
+      "spanish": "recursos"
+    },
+    {
+      "english": "related",
+      "spanish": "relacionado"
+    },
+    {
+      "english": "receive",
+      "spanish": "recibir"
+    },
+    {
+      "english": "reference",
+      "spanish": "referencia"
+    },
+    {
+      "english": "repertoire",
+      "spanish": "repertorio"
+    },
+    {
+      "english": "returned",
+      "spanish": "devuelto"
+    },
+    {
+      "english": "respond",
+      "spanish": "responder"
+    },
+    {
+      "english": "record",
+      "spanish": "registrar"
+    },
+    {
+      "english": "regular",
+      "spanish": "regular"
+    },
+    {
+      "english": "raise",
+      "spanish": "aumentar"
+    },
+    {
+      "english": "region",
+      "spanish": "región"
+    },
+    {
+      "english": "recognize",
+      "spanish": "reconocer"
+    },
+    {
+      "english": "right",
+      "spanish": "correcto"
+    },
+    {
+      "english": "reviews",
+      "spanish": "revisiones"
+    },
+    {
+      "english": "rewarding",
+      "spanish": "gratificante"
+    },
+    {
+      "english": "relationship",
+      "spanish": "relación"
+    },
+    {
+      "english": "reflect",
+      "spanish": "reflejar"
+    },
+    {
+      "english": "roots",
+      "spanish": "raíces"
+    },
+    {
+      "english": "require",
+      "spanish": "requerir"
+    },
+    {
+      "english": "ready",
+      "spanish": "listo"
+    },
+    {
+      "english": "raining",
+      "spanish": "llover"
+    },
+    {
+      "english": "researching",
+      "spanish": "investigar"
+    },
+    {
+      "english": "responsibilities",
+      "spanish": "responsabilidades"
+    },
+    {
+      "english": "responsible",
+      "spanish": "responsable"
+    },
+    {
+      "english": "results",
+      "spanish": "resultados"
+    },
+    {
+      "english": "running",
+      "spanish": "corriendo"
+    },
+    {
+      "english": "regularly",
+      "spanish": "regularmente"
+    },
+    {
+      "english": "routine",
+      "spanish": "rutina"
+    },
+    {
+      "english": "read",
+      "spanish": "leer"
+    },
+    {
+      "english": "really",
+      "spanish": "realmente"
+    },
+    {
+      "english": "revisit",
+      "spanish": "revisitar"
+    },
+    {
+      "english": "railway",
+      "spanish": "ferrocarril"
+    },
+    {
+      "english": "revolutionize",
+      "spanish": "revolucionar"
+    },
+    {
+      "english": "safety ",
+      "spanish": "seguridad"
+    },
+    {
+      "english": "said ",
+      "spanish": "dijo"
+    },
+    {
+      "english": "sailing ",
+      "spanish": "navegación"
+    },
+    {
+      "english": "same ",
+      "spanish": "mismo"
+    },
+    {
+      "english": "say ",
+      "spanish": "decir"
+    },
+    {
+      "english": "share ",
+      "spanish": "compartir"
+    },
+    {
+      "english": "schedule ",
+      "spanish": "horario"
+    },
+    {
+      "english": "school ",
+      "spanish": "escuela"
+    },
+    {
+      "english": "science ",
+      "spanish": "ciencia"
+    },
+    {
+      "english": "scotland ",
+      "spanish": "escocia"
+    },
+    {
+      "english": "sea ",
+      "spanish": "mar"
+    },
+    {
+      "english": "see ",
+      "spanish": "ver"
+    },
+    {
+      "english": "seek ",
+      "spanish": "buscar"
+    },
+    {
+      "english": "seen ",
+      "spanish": "visto"
+    },
+    {
+      "english": "self ",
+      "spanish": "yo"
+    },
+    {
+      "english": "semester ",
+      "spanish": "semestre"
+    },
+    {
+      "english": "sentences ",
+      "spanish": "oraciones"
+    },
+    {
+      "english": "senior ",
+      "spanish": "último"
+    },
+    {
+      "english": "set ",
+      "spanish": "establecer"
+    },
+    {
+      "english": "several ",
+      "spanish": "varios"
+    },
+    {
+      "english": "share ",
+      "spanish": "compartir"
+    },
+    {
+      "english": "ship ",
+      "spanish": "barco"
+    },
+    {
+      "english": "shopping ",
+      "spanish": "compras"
+    },
+    {
+      "english": "short ",
+      "spanish": "corto"
+    },
+    {
+      "english": "sick ",
+      "spanish": "enfermo"
+    },
+    {
+      "english": "significance ",
+      "spanish": "significado"
+    },
+    {
+      "english": "significant ",
+      "spanish": "significativo"
+    },
+    {
+      "english": "similarly ",
+      "spanish": "similarmente"
+    },
+    {
+      "english": "simple ",
+      "spanish": "simple"
+    },
+    {
+      "english": "since ",
+      "spanish": "desde"
+    },
+    {
+      "english": "sister ",
+      "spanish": "hermana"
+    },
+    {
+      "english": "site ",
+      "spanish": "sitio"
+    },
+    {
+      "english": "situated ",
+      "spanish": "situado"
+    },
+    {
+      "english": "situation ",
+      "spanish": "situación"
+    },
+    {
+      "english": "skills ",
+      "spanish": "habilidades"
+    },
+    {
+      "english": "sleep ",
+      "spanish": "dormir"
+    },
+    {
+      "english": "small ",
+      "spanish": "pequeño"
+    },
+    {
+      "english": "smaller ",
+      "spanish": "más pequeño"
+    },
+    {
+      "english": "snack ",
+      "spanish": "merienda"
+    },
+    {
+      "english": "social ",
+      "spanish": "social"
+    },
+    {
+      "english": "solutions  ",
+      "spanish": "soluciones"
+    },
+    {
+      "english": "some ",
+      "spanish": "algunos"
+    },
+    {
+      "english": "someone ",
+      "spanish": "alguien"
+    },
+    {
+      "english": "something ",
+      "spanish": "algo"
+    },
+    {
+      "english": "sometimes ",
+      "spanish": "a veces"
+    },
+    {
+      "english": "son ",
+      "spanish": "hijo"
+    },
+    {
+      "english": "sounds ",
+      "spanish": "sonidos"
+    },
+    {
+      "english": "speaking ",
+      "spanish": "hablar"
+    },
+    {
+      "english": "specialize ",
+      "spanish": "especializarse"
+    },
+    {
+      "english": "spend ",
+      "spanish": "gastar"
+    },
+    {
+      "english": "spiritualities ",
+      "spanish": "espiritualidades"
+    },
+    {
+      "english": "spoken ",
+      "spanish": "hablado"
+    },
+    {
+      "english": "sport ",
+      "spanish": "deporte"
+    },
+    {
+      "english": "stack ",
+      "spanish": "apilar"
+    },
+    {
+      "english": "standards ",
+      "spanish": "estándares"
+    },
+    {
+      "english": "started ",
+      "spanish": "iniciado"
+    },
+    {
+      "english": "starting ",
+      "spanish": "iniciando"
+    },
+    {
+      "english": "start ",
+      "spanish": "inicio"
+    },
+    {
+      "english": "station ",
+      "spanish": "estación"
+    },
+    {
+      "english": "stop ",
+      "spanish": "parada"
+    },
+    {
+      "english": "stories ",
+      "spanish": "historias"
+    },
+    {
+      "english": "strategies ",
+      "spanish": "estrategias"
+    },
+    {
+      "english": "stress ",
+      "spanish": "estrés"
+    },
+    {
+      "english": "students ",
+      "spanish": "estudiantes"
+    },
+    {
+      "english": "studying ",
+      "spanish": "estudiar"
+    },
+    {
+      "english": "successful ",
+      "spanish": "éxito"
+    },
+    {
+      "english": "sun ",
+      "spanish": "sol"
+    },
+    {
+      "english": "support ",
+      "spanish": "apoyo"
+    },
+    {
+      "english": "sure ",
+      "spanish": "seguro"
+    },
+    {
+      "english": "systems",
+      "spanish": "sistemas"
+    },
+    {
+      "english": "today",
+      "spanish": "hoy"
+    },
+    {
+      "english": "teammates",
+      "spanish": "compañeros de equipo"
+    },
+    {
+      "english": "testing",
+      "spanish": "probando"
+    },
+    {
+      "english": "together",
+      "spanish": "juntos"
+    },
+    {
+      "english": "trends",
+      "spanish": "tendencias"
+    },
+    {
+      "english": "team",
+      "spanish": "equipo"
+    },
+    {
+      "english": "talking",
+      "spanish": "hablando"
+    },
+    {
+      "english": "travel",
+      "spanish": "viajando"
+    },
+    {
+      "english": "topics",
+      "spanish": "temas"
+    },
+    {
+      "english": "task",
+      "spanish": "tarea"
+    },
+    {
+      "english": "technology",
+      "spanish": "tecnología"
+    },
+    {
+      "english": "technologies",
+      "spanish": "tecnologías"
+    },
+    {
+      "english": "texts",
+      "spanish": "textos"
+    },
+    {
+      "english": "take",
+      "spanish": "tomar"
+    },
+    {
+      "english": "teaching",
+      "spanish": "enseñanza"
+    },
+    {
+      "english": "traditional",
+      "spanish": "tradicional"
+    },
+    {
+      "english": "territory",
+      "spanish": "territorio"
+    },
+    {
+      "english": "tied",
+      "spanish": "atado"
+    },
+    {
+      "english": "turtle",
+      "spanish": "tortuga"
+    },
+    {
+      "english": "time",
+      "spanish": "tiempo"
+    },
+    {
+      "english": "taking",
+      "spanish": "tomando"
+    },
+    {
+      "english": "though",
+      "spanish": "aunque"
+    },
+    {
+      "english": "throughout",
+      "spanish": "a lo largo"
+    },
+    {
+      "english": "think",
+      "spanish": "pensar"
+    },
+    {
+      "english": "timetable",
+      "spanish": "horario"
+    },
+    {
+      "english": "things",
+      "spanish": "cosas"
+    },
+    {
+      "english": "too",
+      "spanish": "demasiado"
+    },
+    {
+      "english": "try",
+      "spanish": "intentar"
+    },
+    {
+      "english": "tips",
+      "spanish": "consejos"
+    },
+    {
+      "english": "tricks",
+      "spanish": "trucos"
+    },
+    {
+      "english": "theirs",
+      "spanish": "de ellos"
+    },
+    {
+      "english": "traditions",
+      "spanish": "tradiciones"
+    },
+    {
+      "english": "them",
+      "spanish": "ellos"
+    },
+    {
+      "english": "this",
+      "spanish": "esto"
+    },
+    {
+      "english": "through",
+      "spanish": "a través"
+    },
+    {
+      "english": "theatre",
+      "spanish": "teatro"
+    },
+    {
+      "english": "that",
+      "spanish": "eso"
+    },
+    {
+      "english": "town",
+      "spanish": "ciudad"
+    },
+    {
+      "english": "there",
+      "spanish": "allí"
+    },
+    {
+      "english": "transportation",
+      "spanish": "transporte"
+    },
+    {
+      "english": "tourist",
+      "spanish": "turista"
+    },
+    {
+      "english": "tours",
+      "spanish": "tours"
+    },
+    {
+      "english": "tobogganing",
+      "spanish": "trineo"
+    },
+    {
+      "english": "then",
+      "spanish": "luego"
+    },
+    {
+      "english": "travelling",
+      "spanish": "viajando"
+    },
+    {
+      "english": "traffic",
+      "spanish": "tráfico"
+    },
+    {
+      "english": "train",
+      "spanish": "tren"
+    },
+    {
+      "english": "trip",
+      "spanish": "viaje"
+    },
+    {
+      "english": "they",
+      "spanish": "ellos"
+    },
+    {
+      "english": "true",
+      "spanish": "verdadero"
+    },
+    {
+      "english": "thousands",
+      "spanish": "miles"
+    },
+    {
+      "english": "three",
+      "spanish": "tres"
+    },
+    {
+      "english": "stations",
+      "spanish": "estaciones"
+    },
+    {
+      "english": "travelled",
+      "spanish": "viajaron"
+    },
+    {
+      "english": "their",
+      "spanish": "su"
+    },
+    {
+      "english": "together",
+      "spanish": "juntos"
+    },
+    {
+      "english": "trust",
+      "spanish": "confianza"
+    },
+    {
+      "english": "tools",
+      "spanish": "herramientas"
+    },
+    {
+      "english": "university",
+      "spanish": "universidad"
+    },
+    {
+      "english": "undergraduate",
+      "spanish": "estudiante"
+    },
+    {
+      "english": "user",
+      "spanish": "usuario"
+    },
+    {
+      "english": "using",
+      "spanish": "usando"
+    },
+    {
+      "english": "urgent",
+      "spanish": "urgente"
+    },
+    {
+      "english": "useful",
+      "spanish": "útil"
+    },
+    {
+      "english": "us",
+      "spanish": "nosotros"
+    },
+    {
+      "english": "use",
+      "spanish": "uso"
+    },
+    {
+      "english": "usually",
+      "spanish": "usualmente"
+    },
+    {
+      "english": "unique",
+      "spanish": "único"
+    },
+    {
+      "english": "visited",
+      "spanish": "visitado"
+    },
+    {
+      "english": "variety",
+      "spanish": "variedad"
+    },
+    {
+      "english": "vocabulary",
+      "spanish": "vocabulario"
+    },
+    {
+      "english": "volunteer",
+      "spanish": "voluntario"
+    },
+    {
+      "english": "vacuuming",
+      "spanish": "pasar la aspiradora"
+    },
+    {
+      "english": "visit",
+      "spanish": "visita"
+    },
+    {
+      "english": "vehicle",
+      "spanish": "vehículo"
+    },
+    {
+      "english": "week",
+      "spanish": "semana"
+    },
+    {
+      "english": "weekend",
+      "spanish": "fin de semana"
+    },
+    {
+      "english": "weekly",
+      "spanish": "semanalmente"
+    },
+    {
+      "english": "work",
+      "spanish": "trabajo"
+    },
+    {
+      "english": "working",
+      "spanish": "trabajando"
+    },
+    {
+      "english": "wanted",
+      "spanish": "querido"
+    },
+    {
+      "english": "wife",
+      "spanish": "esposa"
+    },
+    {
+      "english": "written",
+      "spanish": "escrito"
+    },
+    {
+      "english": "writing",
+      "spanish": "escribiendo"
+    },
+    {
+      "english": "write",
+      "spanish": "escribir"
+    },
+    {
+      "english": "worked",
+      "spanish": "trabajó"
+    },
+    {
+      "english": "world",
+      "spanish": "mundo"
+    },
+    {
+      "english": "went",
+      "spanish": "fui"
+    },
+    {
+      "english": "would",
+      "spanish": "quisiera"
+    },
+    {
+      "english": "will",
+      "spanish": "quiera"
+    },
+    {
+      "english": "with",
+      "spanish": "con"
+    },
+    {
+      "english": "washing",
+      "spanish": "lavando"
+    },
+    {
+      "english": "what",
+      "spanish": "qué"
+    },
+    {
+      "english": "well",
+      "spanish": "bueno"
+    },
+    {
+      "english": "when",
+      "spanish": "cuándo"
+    },
+    {
+      "english": "wonderful",
+      "spanish": "maravilloso"
+    },
+    {
+      "english": "welcome",
+      "spanish": "bienvenido"
+    },
+    {
+      "english": "were",
+      "spanish": "eran"
+    },
+    {
+      "english": "weight",
+      "spanish": "peso"
+    },
+    {
+      "english": "weather",
+      "spanish": "clima"
+    },
+    {
+      "english": "welcome",
+      "spanish": "bienvenido"
+    },
+    {
+      "english": "we",
+      "spanish": "nosotros"
+    },
+    {
+      "english": "which",
+      "spanish": "cual"
+    },
+    {
+      "english": "west",
+      "spanish": "oeste"
+    },
+    {
+      "english": "was",
+      "spanish": "fue"
+    },
+    {
+      "english": "will",
+      "spanish": "quiera"
+    },
+    {
+      "english": "went",
+      "spanish": "fuimos"
+    },
+    {
+      "english": "want",
+      "spanish": "querer"
+    },
+    {
+      "english": "wanting",
+      "spanish": "queriendo"
+    },
+    {
+      "english": "while",
+      "spanish": "mientras"
+    },
+    {
+      "english": "wait",
+      "spanish": "espera"
+    },
+    {
+      "english": "who",
+      "spanish": "quién"
+    },
+    {
+      "english": "we",
+      "spanish": "nosotros"
+    },
+    {
+      "english": "workplace",
+      "spanish": "lugar de trabajo"
+    },
+    {
+      "english": "years",
+      "spanish": "años"
+    },
+    {
+      "english": "you",
+      "spanish": "tú"
+    },
+    {
+      "english": "your",
+      "spanish": "tu"
+    },
+    {
+      "english": "yourself",
+      "spanish": "tú mismo"
+    },
+    {
+      "english": "yours",
+      "spanish": "tuyo"
+    },
+    {
+      "english": "zoo",
+      "spanish": "zoológico"
     }
   ]
 }

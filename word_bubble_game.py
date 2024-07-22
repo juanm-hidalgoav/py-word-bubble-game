@@ -6,8 +6,8 @@ import random
 pygame.init()
 
 # Screen dimensions
-SCREEN_WIDTH = 800
-SCREEN_HEIGHT = 600
+SCREEN_WIDTH = 1024 # screen width
+SCREEN_HEIGHT = 768 # screen height
 
 # Load images
 background = pygame.image.load('assets/background.png')
@@ -30,7 +30,7 @@ clock = pygame.time.Clock()
 FPS = 30
 
 # Font setup
-font = pygame.font.Font(None, 36)
+font = pygame.font.Font(None, 28)  # Reduced font size by ~20%
 
 # Calculate maximum text dimensions
 max_text_width = 0
@@ -42,22 +42,46 @@ for word_pair in words:
     max_text_height = max(max_text_height, english_text.get_height(), spanish_text.get_height())
 
 # Define bubble radius based on maximum text size
-radius = max(max_text_width, max_text_height) // 2 + 20
+radius = int((max(max_text_width, max_text_height) // 2 + 10) * 0.8)  # Adjust this as needed 
+
+# Define grid size
+GRID_WIDTH = 10
+GRID_HEIGHT = 8
+CELL_WIDTH = SCREEN_WIDTH // GRID_WIDTH
+CELL_HEIGHT = SCREEN_HEIGHT // GRID_HEIGHT
+
+# Function to get the font size for a given text while maintaining aspect ratio and fitting within the given dimensions
+def get_font_size(text, max_width, max_height, font_name=None):
+    font_size = 28
+    font = pygame.font.Font(font_name, font_size)
+    text_surf = font.render(text, True, BLACK)
+    while text_surf.get_width() > max_width or text_surf.get_height() > max_height:
+        font_size -= 1
+        font = pygame.font.Font(font_name, font_size)
+        text_surf = font.render(text, True, BLACK)
+    return font_size
+
 
 # Function to create a circular bubble
 def create_circular_bubble(text):
     bubble_surf = pygame.Surface((radius * 2, radius * 2), pygame.SRCALPHA)
     bubble_rect = bubble_surf.get_rect()
-    pygame.draw.circle(bubble_surf, WHITE, bubble_rect.center, radius)
     
     # Scale bubble image to fit within the circle while maintaining aspect ratio
     scaled_bubble_img = pygame.transform.smoothscale(bubble_img, (radius * 2, radius * 2))
-    bubble_surf.blit(scaled_bubble_img, (0, 0), special_flags=pygame.BLEND_RGBA_MIN)
-
+    bubble_surf.blit(scaled_bubble_img, (0, 0))
+    
+    # Draw text on the bubble
+    font_size = get_font_size(text, radius * 1.5, radius * 1.5)  # Allow some padding
+    font = pygame.font.Font(None, font_size)
+    
     text_surf = font.render(text, True, BLACK)
-    text_rect = text_surf.get_rect(center=bubble_rect.center)
-    bubble_surf.blit(text_surf, text_rect)
+    text_rect = text_surf.get_rect()
+    text_rect.center = bubble_rect.center
+    bubble_surf.blit(text_surf, text_rect.topleft)
+    
     return bubble_surf
+
 
 # Bubble class
 class Bubble(pygame.sprite.Sprite):
@@ -74,36 +98,37 @@ class Bubble(pygame.sprite.Sprite):
 # Function to check if two bubbles overlap
 def bubbles_overlap(bubble1, bubble2):
     distance = ((bubble1.rect.centerx - bubble2.rect.centerx) ** 2 + (bubble1.rect.centery - bubble2.rect.centery) ** 2) ** 0.5
-    return distance < radius * 2
+    return distance < radius * 1.8  # Allow a bit of overlap by reducing the factor
 
 # Function to add a new bubble ensuring no overlap
-def add_new_bubble(word, language):
+def add_new_bubble(word, language, bubbles):
     placed = False
     attempts = 0
-    max_attempts = 1000  # Increased number of attempts
+    max_attempts = 10000  # Increase the maximum attempts further
     while not placed and attempts < max_attempts:
         x_pos = random.randint(radius, SCREEN_WIDTH - radius)
         y_pos = random.randint(radius, SCREEN_HEIGHT - radius)
+
         new_bubble = Bubble(word, x_pos, y_pos, language)
         if not any(bubbles_overlap(new_bubble, bubble) for bubble in bubbles):
             bubbles.append(new_bubble)
             placed = True
         attempts += 1
     if not placed:
-        print(f"Could not place bubble for word: {word}")
+        print(f"Could not place bubble for word: {word} after {attempts} attempts")
+    return placed
+
+
 
 # Ensure exactly 6 bubbles on the screen
-def ensure_six_bubbles():
+def ensure_six_bubbles(bubbles, used_words):
     while len(bubbles) < 6:
         available_pairs = [wp for wp in words if wp['english'] not in used_words and wp['spanish'] not in used_words]
         if available_pairs:
             new_pair = random.choice(available_pairs)
-            used_words.add(new_pair['english'])
-            used_words.add(new_pair['spanish'])
-            add_new_bubble(new_pair['english'], 'english')
-            add_new_bubble(new_pair['spanish'], 'spanish')
-        else:
-            break  # No more available pairs to add
+            temp_used_words = set([new_pair['english'], new_pair['spanish']])
+            if add_new_bubble(new_pair['english'], 'english', bubbles) and add_new_bubble(new_pair['spanish'], 'spanish', bubbles):
+                used_words.update(temp_used_words)
 
 # Create initial bubbles
 bubbles = []
@@ -113,8 +138,8 @@ initial_pairs = random.sample(words, 3)  # Select 3 random pairs to start
 for word_pair in initial_pairs:
     used_words.add(word_pair['english'])
     used_words.add(word_pair['spanish'])
-    add_new_bubble(word_pair['english'], 'english')
-    add_new_bubble(word_pair['spanish'], 'spanish')
+    add_new_bubble(word_pair['english'], 'english', bubbles)
+    add_new_bubble(word_pair['spanish'], 'spanish', bubbles)
 
 selected_bubbles = []
 
@@ -144,7 +169,7 @@ while running:
                                 used_words.discard(bubble2.word)
                         selected_bubbles = []
     
-    ensure_six_bubbles()
+    ensure_six_bubbles(bubbles, used_words)
 
     for bubble in bubbles:
         bubble.draw(screen)
